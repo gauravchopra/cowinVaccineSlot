@@ -1,3 +1,5 @@
+// Refer to ReadMe PAge, on how to run the script - https://github.com/gauravchopra/cowinVaccineSlot/blob/main/README.md
+
 var pincodes = ["110018"];
 var dateArr = ["06-05-2021", "07-05-2021"];
 var trialCounter = 1;
