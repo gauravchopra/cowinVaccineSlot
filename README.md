@@ -1,8 +1,8 @@
 # cowinVaccineSlot
 
-This script will alert you whenever some slot opens up on the given date within the given pincodes
-Change the pincodes to your needs as per your city
-Change the dateArr to add your convinent set of dates
+This script will alert you whenever some slot opens up on the given date within the given pincodes.
+Change the pincodes (variable defined in the js file) to your needs as per your city.
+Change the dateArr (variable defined in the js file) to add your convinent set of dates.
 
 Steps to use
 1. Update Config - this means you need to set Pin Code and date in the Js code
