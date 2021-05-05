@@ -7,10 +7,10 @@ Change the dateArr to add your convinent set of dates
 Steps to use
 1. Update Config - this means you need to set Pin Code and date in the Js code
 2. Login to https://selfregistration.cowin.gov.in/
-3. Rigt Click on the website
+3. Right Click on the website
 4. Click on Inspect
 5. Open the Console Tab on your Inspect window
-6. Copy paste the contents of this entire file - cowin_schedule_v2.js
+6. Copy paste the contents of this entire file content - Js file on to the console
 7. Press Enter
 
 It will run every 10 seconds and check for availability of slots.
